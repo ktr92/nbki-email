@@ -1,0 +1,207 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a { text-decoration: none; color: #445371; } .blue { color: #4563FF; }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-wrapper background-color="#F6F6F8" padding="15px">
+      <mj-section padding="32px 0 40px 0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            width="147px"
+            align="left"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-logo.png"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column
+          padding="40px 16px"
+          background-color="#fff"
+          border-radius="16px"
+   
+        >
+          <mj-text
+            align="left"
+            font-size="22px" letter-spacing="0.01em"
+            line-height="120%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 20px 0"
+          >
+            Не забудьте активировать личный кабинет 
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+            Этот электронный адрес был указан при регистрации личного кабинета на сайте НБКИ. Чтобы активировать его, подтвердите вашу почту
+          </mj-text>
+
+         <mj-button
+            align="center"
+            href="https://persondemo-v2.nbki.ru/subject-cabinet/link-15ffizevdggnv1d6zvll0ei3v4"
+            target="_blank"
+            border-radius="50px"
+            background-color="#4563ff"
+            width="315px"
+            font-size="17px" letter-spacing="0.01em"
+            height="50px"
+            line-height="130%"
+            padding="10px 0 0 0"
+          >
+            Подтвердить регистрацию
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column padding="0px 0 10px 0">
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Если кнопка не работает, скопируйте указанный ниже URL-адрес и
+            вставьте в адресную строку браузера:
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+            ><a
+              href="https://persondemo-v2.nbki.ru/subject-cabinet/link-15ffizevdggnv1d6zvll0ei3v4"
+              target="_blank"
+              class="blue"
+              text-decoration="none"
+              >https://persondemo-v2.nbki.ru/subject-cabinet/link-15ffizevdggnv1d6zvll0ei3v4</a
+            >
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 10px 0"
+          >
+            Ссылка действительна в течение 24 часов
+          </mj-text>
+          <mj-image
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/Vector44.png"
+            padding="5px 0 40px 0"
+            fluid-on-mobile="true"
+          ></mj-image>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Для получения дополнительной информации вы можете ознакомиться с нашими 
+              <a href="https://www.nbki.ru/documents/personal-account/2021_06-Rules-personal-app.pdf" target="_blank" class="blue">Правилами использования Личного кабинета</a> и
+              <a href="https://www.nbki.ru/documents/PDN_Agreement.pdf" target="_blank" class="blue">                
+              Согласием на обработку персональных данных</a>. 
+
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Если вы получили это письмо по ошибке, просто удалите его.
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="17px" letter-spacing="0.01em"
+            color="#000"
+            line-height="130%"
+            padding="0 0 0 0"
+          >
+            Команда НБКИ
+          </mj-text>
+       
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column
+          padding="24px 16px"
+          background-color="#fff"
+          border-radius="16px"
+        >
+          <mj-text
+            align="left"
+            font-size="15px" letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Это письмо было создано автоматически. <br />
+            Пожалуйста, не отвечайте на него.
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="15px" letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если у вас возникли вопросы, задайте их через форму
+            <a
+              href="https://nbki.ru/contacts/#contactforms"
+              target="_blank"
+              class="blue"
+              text-decoration="none"
+              >обратной связи</a
+            >
+            или по телефону
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="28px"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <mj-button href="tel:88006006404" target="_blank" class=""
+              >8 800 600 64 04</mj-button
+            >
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px" letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <a href="https://nbki.ru/" target="_blank" color="#445371"
+              >nbki.ru</a
+            >
+          </mj-text>
+          <mj-image
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-icon.png"
+            align="center"
+            width="66px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
