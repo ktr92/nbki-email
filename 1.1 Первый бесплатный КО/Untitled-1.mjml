@@ -40,7 +40,7 @@
 
       <mj-section padding="24px 0 8px 0">
         <mj-column
-          padding="40px 16px 20px 16px"
+          padding="40px 16px 40px 16px"
           background-color="#fff"
           border-radius="16px"
         >
@@ -125,7 +125,7 @@
             Это выгоднее разового запроса
           </mj-text>
 
-          <mj-table border="none">
+          <mj-table border="none" padding="0 0 16px 0">
             <tr
               style="
                 border-bottom: 1px solid #ecedee;
@@ -135,7 +135,7 @@
             >
               <th colspan="3" border="none" align="left">
                 <span
-                  style='border-radius: 16px 12px 0 0;padding: 5px 16px 5px 16px; white-space:nowrap; background: linear-gradient(180deg, #b0cdff 0%, #4563ff 35.18%); color:#fff; text-align="center"; display:inline-block; font-size="17px";line-height: 129%;letter-spacing: 0.01em;font-weight: 400;'
+                  style='border-radius: 16px 12px 0 0;padding: 5px 16px 5px 16px; white-space:nowrap; background: #4563FF; color:#fff; text-align="center"; display:inline-block; font-size="17px";line-height: 129%;letter-spacing: 0.01em;font-weight: 400;'
                   >3 отчета</span
                 >
               </th>
@@ -145,7 +145,7 @@
                 <span
                   style="
                     border: 1px solid #4563ff;
-                    border-radius: 0 0 16px 16px;
+                    border-radius: 0 16px 16px 16px;
                     background: #f3f6fe;
                     display: block;
                     padding: 16px;
@@ -162,7 +162,7 @@
                             letter-spacing: -0.02em;
                             color: #000;
                             white-space:nowrap;
-                            padding: 0 0 8px 0;
+                            padding: 0 8px 0  0;
                           "
                           >650 ₽</span
                         >
@@ -175,6 +175,7 @@
                             line-height: 113%;
                             letter-spacing: 0.01em;
                             color: #000;
+                            displaY:block;white-space:nowrap;
                           "
                           >три кредитных отчета</span
                         >
@@ -184,17 +185,126 @@
                             font-size: 16px;
                             line-height: 113%;
                             letter-spacing: 0.01em;
-                            color: #445371;
+                            color: #445371;white-space:nowrap;
                           "
                           >действуют 180 дней
                         </span>
                       </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3">
+                      <span style="padding: 16px 0; display:block;">
+                      <a href="#" style="text-align:center;display: block; background: #4563ff; color: #ffffff; font-family: Arial; font-size: 17px; font-weight: normal; line-height: 130%; letter-spacing: 0.01em; margin: 0; text-decoration: none; text-transform: none; padding: 10px 25px; mso-padding-alt: 0px; border-radius: 50px;" target="_blank">Выбрать тариф</a>
+                      </span>
+                        
+                      </td>
+                    </tr>
+                    <tr>
+                    <td colspan="3">
+                     <div style="font-family:Arial;font-size:16px;letter-spacing:0.01em;line-height:130%;text-align:left;color:#000000;">Три отчёта по цене чуть больше одного. Забирайте в любой момент в течение 180 дней после покупки</div>
+                    </td>
+                     
                     </tr>
                   </table>
                 </span>
               </td>
             </tr>
           </mj-table>
+          <mj-table border="none" padding="0">
+            <tr
+              style="
+                border-bottom: 1px solid #ecedee;
+                text-align: left;
+                padding: 15px 0;
+              "
+            >
+              <th colspan="3" border="none" align="left">
+                <span
+                  style='border-radius: 16px 12px 0 0;padding: 5px 16px 5px 16px; white-space:nowrap; background: #4563FF; color:#fff; text-align="center"; display:inline-block; font-size="17px";line-height: 129%;letter-spacing: 0.01em;font-weight: 400;'
+                  >6 отчетов</span
+                >
+              </th>
+            </tr>
+            <tr style="transform: translateY(-1px)">
+              <td colspan="3">
+                <span
+                  style="
+                    border: 1px solid #4563ff;
+                    border-radius: 0 16px 16px 16px;
+                    background: #f3f6fe;
+                    display: block;
+                    padding: 16px;
+                  "
+                >
+                  <table>
+                    <tr>
+                      <td>
+                        <span
+                          style="
+                            font-weight: 700;
+                            font-size: 34px;
+                            line-height: 65%;
+                            letter-spacing: -0.02em;
+                            color: #000;
+                            white-space:nowrap;
+                            padding: 0 8px 0  0;
+                          "
+                          >950 ₽</span
+                        >
+                      </td>
+                      <td colspan="2">
+                        <span
+                          style="
+                            font-weight: 400;
+                            font-size: 16px;
+                            line-height: 113%;
+                            letter-spacing: 0.01em;
+                            color: #000;
+                            displaY:block;white-space:nowrap;
+                          "
+                          >шесть кредитных отчетов</span
+                        >
+                        <span
+                          style="
+                            font-weight: 400;
+                            font-size: 16px;
+                            line-height: 113%;
+                            letter-spacing: 0.01em;
+                            color: #445371;white-space:nowrap;
+                          "
+                          >действуют 360 дней
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3">
+                      <span style="padding: 16px 0; display:block;">
+                      <a href="#" style="text-align:center;display: block; background: #4563ff; color: #ffffff; font-family: Arial; font-size: 17px; font-weight: normal; line-height: 130%; letter-spacing: 0.01em; margin: 0; text-decoration: none; text-transform: none; padding: 10px 25px; mso-padding-alt: 0px; border-radius: 50px;" target="_blank">Выбрать тариф</a>
+                      </span>
+                        
+                      </td>
+                    </tr>
+                    <tr>
+                    <td colspan="3">
+                     <div style="font-family:Arial;font-size:16px;letter-spacing:0.01em;line-height:130%;text-align:left;color:#000000;">Максимальная выгода – каждый отчёт обходится менее 160 ₽. Забирайте, когда удобно в течение 360 дней после покупки</div>
+                    </td>
+                     
+                    </tr>
+                  </table>
+                </span>
+              </td>
+            </tr>
+          </mj-table>
+          <mj-text align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            line-height="125%"
+            color="#445371"
+            font-style="italic"
+            font-weight="normal"
+            padding="16px 0 0 0">
+            Каждый отчет формируется по вашему запросу и хранится в личном кабинете в течение 180 дней
+          </mj-text>
         </mj-column>
       </mj-section>
 
@@ -230,6 +340,19 @@
               >обратной связи</a
             >
             или по телефону
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если вы не хотите больше получать информацию о наших продуктах, акциях и специальных предложениях, <a href="#" target="_blank"
+              class="blue"
+              text-decoration="none">отпишитесь здесь</a>. Это не повлияет на получение важных информационных писем
           </mj-text>
           <mj-text
             align="center"

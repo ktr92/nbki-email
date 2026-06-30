@@ -1,0 +1,243 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none;
+        color: #445371;
+      }
+      .blue {
+        color: #4563ff;
+      }
+      .gradient-bg > table {
+        border-radius: 16px !important;
+        background-color: #4563ff;
+      background: radial-gradient(148.39% 182.55% at 92.32% 11.24%, #4563ff 11.51%, #b0cdff 88.31%);
+      }
+     
+       
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-wrapper background-color="#F6F6F8" padding="15px">
+      <mj-section padding="32px 0 40px 0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            width="147px"
+            align="left"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-logo.png"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/image_ok.png"
+            align="left"
+            width="130px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 0 24px 0">
+        <mj-column
+          padding="40px 16px 40px 16px"
+          background-color="#fff"
+          border-radius="16px"
+        >
+          <mj-text
+            align="left"
+            font-size="22px"
+            letter-spacing="0.01em"
+            line-height="120%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 20px 0"
+          >
+            Ваш кредитный отчёт<br />
+            уже в личном кабинете
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+            Спасибо, что воспользовались сервисом НБКИ. Отчёт будет доступен в
+            личном кабинете в течение 180 дней с момента формирования
+          </mj-text>
+          <mj-button
+            align="center"
+            href="#"
+            target="_blank"
+            border-radius="50px"
+            background-color="#4563ff"
+            width="315px"
+            font-size="17px"
+            letter-spacing="0.01em"
+            height="50px"
+            line-height="130%"
+            padding="10px 0 0 0"
+          >
+            Посмотреть отчет
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="8px 0"   css-class="gradient-bg">
+        <mj-column
+          padding="40px 16px 20px 16px"
+          border-radius="16px"
+        
+        >
+          <mj-text
+            align="left"
+            font-size="24px"
+            letter-spacing="0.01em"
+            line-height="117%"
+            color="#fff"
+            font-weight="bold"
+            padding="0 0 16px 0"
+          >
+            Важные новости и акции в вашем почтовом ящике
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#fff"
+            padding="0 0 20px 0"
+            line-height="125%"
+          >
+            Хотите получать информацию о наших услугах, акциях и новостях?
+
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#fff"
+            padding="0 0 20px 0"
+            line-height="125%"
+          >
+            Подпишитесь на рассылку — будем присылать только полезное. Отписаться можно в любой момент 
+          </mj-text>
+
+          <mj-button
+            align="center"
+            href="#"
+            target="_blank"
+            border-radius="50px"
+            background-color="transparent"
+            border="2px solid #fff"
+            width="315px"
+            font-size="17px"
+            letter-spacing="0.01em"
+            height="50px"
+            line-height="130%"
+            padding="10px 0 0 0"
+          >
+            Подписаться
+          </mj-button>
+
+       
+          <mj-text align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            line-height="125%"
+            color="#fff"
+            font-weight="normal"
+            padding="16px 0 0 0">
+            Оформляя подписку, вы соглашаетесь с условиями нашей Политики обработки персональных данных
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 0 0">
+        <mj-column padding="24px 0">
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Это письмо было создано автоматически. <br />
+            Пожалуйста, не отвечайте на него.
+          </mj-text>
+
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если у вас возникли вопросы, задайте их через форму
+            <a
+              href="https://nbki.ru/contacts/#contactforms"
+              target="_blank"
+              class="blue"
+              text-decoration="none"
+              >обратной связи</a
+            >
+            или по телефону
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если вы не хотите больше получать информацию о наших продуктах, акциях и специальных предложениях, <a href="#" target="_blank"
+              class="blue"
+              text-decoration="none">отпишитесь здесь</a>. Это не повлияет на получение важных информационных писем
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="28px"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <mj-button href="tel:88006006404" target="_blank" class=""
+              >8 800 600 64 04</mj-button
+            >
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <a href="https://nbki.ru/" target="_blank" color="#445371"
+              >nbki.ru</a
+            >
+          </mj-text>
+          <mj-image
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-icon-footer2.png"
+            align="center"
+            width="66px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
