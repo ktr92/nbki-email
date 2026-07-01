@@ -91,7 +91,7 @@
           
 
           <mj-table border="none" padding="0 0 16px 0">
-            <tr style="transform: translateY(-1px)">
+            <tr >
               <td colspan="3">
                 <span
                   style="
@@ -146,7 +146,7 @@
                         </div>
                       </td>
                     </tr>
-                     <tr>
+                     <tr> 
                       <td colspan="3">
                         <div
                           style="
@@ -154,7 +154,7 @@
                             font-size: 16px;
                             letter-spacing: 0.01em;
                             line-height: 125%;
-                            text-align: left;
+                            text-align: left; 
                             color: #000000;
                           "
                         >

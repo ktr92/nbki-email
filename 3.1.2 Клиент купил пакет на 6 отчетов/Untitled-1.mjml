@@ -100,7 +100,7 @@
           
 
           <mj-table border="none" padding="0 0 16px 0">
-            <tr style="transform: translateY(-1px)">
+            <tr >
               <td colspan="3">
                 <span
                   style="
@@ -186,7 +186,7 @@
                               font-family: Arial;
                               font-size: 17px;
                               font-weight: normal;
-                              line-height: 130%;
+                              line-height: 130%; 
                               letter-spacing: 0.01em;
                               margin: 0;
                               text-decoration: none;

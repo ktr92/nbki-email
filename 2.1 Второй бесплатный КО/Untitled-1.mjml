@@ -135,7 +135,7 @@
           </mj-text>
 
           <mj-table border="none" padding="0 0 16px 0">
-            <tr style="transform: translateY(-1px)">
+            <tr >
               <td colspan="3" >
                 <span
                   style="
@@ -248,7 +248,7 @@
           </mj-table>
           <mj-table border="none" padding="0">
            
-            <tr style="transform: translateY(-1px)">
+            <tr >
               <td colspan="3">
                 <span
                   style="
