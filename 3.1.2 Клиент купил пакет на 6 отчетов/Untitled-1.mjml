@@ -1,0 +1,310 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none;
+        color: #445371;
+      }
+      .blue {
+        color: #4563ff;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-wrapper background-color="#eceef6" padding="15px">
+      <mj-section padding="32px 0 40px 0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            width="147px"
+            align="left"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-logo.png"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/6_ko_bundle.png"
+            align="left"
+            width="130px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 0 8px 0">
+        <mj-column
+          padding="40px 16px 40px 16px"
+          background-color="#fff"
+          border-radius="16px"
+        >
+          <mj-text
+            align="left"
+            font-size="22px"
+            letter-spacing="0.01em"
+            line-height="120%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 20px 0"
+          >
+            Пакет из 6 отчетов оформлен — спасибо за доверие!
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+            Оплата прошла успешно. В рамках тарифа вы можете запросить 6 кредитных отчёта в любое удобное время в течение 180 дней с момента оплаты. 
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          > 
+Каждый отчёт появится в разделе «Полученные отчёты» в личном кабинете и будет храниться там 180 дней
+          </mj-text>
+          <mj-button
+            align="center"
+            href="#"
+            target="_blank"
+            border-radius="24px"
+            background-color="#4563ff"
+            width="315px"
+            font-size="17px"
+            letter-spacing="0.01em"
+            height="50px"
+            line-height="130%"
+            padding="10px 0 0 0"
+          >
+           В личный кабинет
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 0 0 0">
+        <mj-column
+         
+        >
+          
+
+          <mj-table border="none" padding="0 0 16px 0">
+            <tr style="transform: translateY(-1px)">
+              <td colspan="3">
+                <span
+                  style="
+                    border: 1px solid #4563ff;
+                    border-radius: 16px 16px 16px 16px;
+                    background: #f3f6fe;
+                    display: block;
+                    padding: 16px;
+                  "
+                >
+                  <table>
+                    <tr style="text-align: left">
+                      <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
+                        <span
+                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; background: linear-gradient(180deg, #b0cdff 0%, #4563ff 35.18%); color:#fff;text-align="center"; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-weight: 700;'
+                          >Персональная консультация</span
+                        >
+                      </th>
+                    </tr> 
+
+                     <tr>
+                      <td colspan="3" style="padding:0 0 12px 0">
+                        <div
+                          style="
+                            font-family: Arial;
+                            font-size: 18px;
+                            letter-spacing: 0.01em;
+                            line-height: 122%;
+                            font-weight: 700;
+
+                            text-align: left;
+                            color: #445371;
+                          "
+                        >
+                          Хотите разобраться в своей кредитной истории?
+                        </div>
+                      </td>
+                    </tr>
+                     <tr>
+                      <td colspan="3" style="padding: 0 0 12px 0">
+                        <div
+                          style="
+                            font-family: Arial;
+                            font-size: 16px;
+                            letter-spacing: 0.01em;
+                            line-height: 125%;
+                            text-align: left;
+                            color: #000000;
+                          "
+                        >
+                          Воспользуйтесь услугой «Ваш консультант по кредитной истории».
+                        </div>
+                      </td>
+                    </tr>
+                     <tr>
+                      <td colspan="3">
+                        <div
+                          style="
+                            font-family: Arial;
+                            font-size: 16px;
+                            letter-spacing: 0.01em;
+                            line-height: 125%;
+                            text-align: left;
+                            color: #000000;
+                          "
+                        >
+                          Наш специалист проведёт детальный разбор вашей кредитной истории, подскажет, на что обратить особое внимание, объяснит, из чего складывается ваш кредитный рейтинг, и ответит на интересующие вопросы
+
+                        </div>
+                      </td>
+                    </tr>
+                    
+                    <tr>
+                      <td colspan="3">
+                        <span style="padding: 16px 0; display: block">
+                          <a 
+                            href="#"
+                            style="
+                              text-align: center;
+                              display: block;
+                              background: #4563ff;
+                              color: #ffffff;
+                              font-family: Arial;
+                              font-size: 17px;
+                              font-weight: normal;
+                              line-height: 130%;
+                              letter-spacing: 0.01em;
+                              margin: 0;
+                              text-decoration: none;
+                              text-transform: none;
+                              padding: 16px 25px;
+                              mso-padding-alt: 0px;
+                              border-radius: 24px;
+                            "
+                            target="_blank"
+                            >Записаться на консультацию</a
+                          >
+                        </span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3">
+                        <div
+                          style="
+                            font-family: Arial;
+                            font-size: 16px;
+                            letter-spacing: 0.01em;
+                            line-height: 130%;
+                            text-align: left;
+                            color: #445371;
+                          "
+                        >
+                         Выбрать удобную дату и время консультации можно в личном кабинете. Услуга платная
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                </span>
+              </td>
+            </tr>
+          </mj-table>
+     
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 0 0">
+        <mj-column padding="16px 0 24px 0">
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Это письмо было создано автоматически. <br />
+            Пожалуйста, не отвечайте на него.
+          </mj-text>
+
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если у вас возникли вопросы, задайте их через форму
+            <a
+              href="https://nbki.ru/contacts/#contactforms"
+              target="_blank"
+              class="blue"
+              text-decoration="none"
+              >обратной связи</a
+            >
+            или по телефону
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если вы не хотите больше получать информацию о наших продуктах,
+            акциях и специальных предложениях,
+            <a href="#" target="_blank" class="blue" text-decoration="none"
+              >отпишитесь здесь</a
+            >. Это не повлияет на получение важных информационных писем
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="28px"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <mj-button href="tel:88006006404" target="_blank" class=""
+              >8 800 600 64 04</mj-button
+            >
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <a href="https://nbki.ru/" target="_blank" color="#445371"
+              >nbki.ru</a
+            >
+          </mj-text>
+          <mj-image
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-icon-footer2.png"
+            align="center"
+            width="66px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

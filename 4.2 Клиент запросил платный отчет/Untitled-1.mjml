@@ -11,23 +11,21 @@
       .blue {
         color: #4563ff;
       }
-      .gradient-bg > table {
+       .gradient-bg > table {
         border-radius: 16px !important;
         background-color: #4563ff;
       background: radial-gradient(148.39% 182.55% at 92.32% 11.24%, #4563ff 11.51%, #b0cdff 88.31%);
       }
-     
-       
     </mj-style>
   </mj-head>
   <mj-body width="600px" background-color="#ffffff">
     <mj-wrapper background-color="#eceef6" padding="15px">
       <mj-section padding="32px 0 40px 0">
         <mj-column padding="0">
-          <mj-image
+          <mj-image 
             padding="0"
             width="147px"
-            align="left"
+            align="left" 
             src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-logo.png"
           ></mj-image>
         </mj-column>
@@ -60,8 +58,7 @@
             font-weight="bold"
             padding="0 0 20px 0"
           >
-            Ваш кредитный отчёт<br />
-            уже в личном кабинете
+            Спасибо за покупку!
           </mj-text>
           <mj-text
             align="left"
@@ -71,9 +68,9 @@
             padding="0 0 20px 0"
             line-height="130%"
           >
-            Спасибо, что воспользовались сервисом НБКИ. Отчёт будет доступен в
-            личном кабинете в течение 180 дней с момента формирования
+            Оплата прошла успешно. Ваш кредитный отчёт будет доступен в личном кабинете в течение 180 дней с момента покупки в разделе «Полученные отчеты»
           </mj-text>
+        
           <mj-button
             align="center"
             href="#"
@@ -87,12 +84,12 @@
             line-height="130%"
             padding="10px 0 0 0"
           >
-            Посмотреть отчет
+           Посмотреть отчет
           </mj-button>
         </mj-column>
       </mj-section>
 
-      <mj-section padding="8px 0"   css-class="gradient-bg">
+       <mj-section padding="8px 0"   css-class="gradient-bg">
         <mj-column
           padding="40px 16px 20px 16px"
           border-radius="16px"
@@ -130,7 +127,7 @@
           >
             Подпишитесь на рассылку — будем присылать только полезное. Отписаться можно в любой момент 
           </mj-text>
- 
+
           <mj-button
             align="center"
             href="#"
@@ -159,7 +156,7 @@
             Оформляя подписку, вы соглашаетесь с условиями нашей Политики обработки персональных данных
           </mj-text>
         </mj-column>
-      </mj-section>
+      </mj-section> 
 
       <mj-section padding="0 0 0 0">
         <mj-column padding="32px 0 24px 0">
@@ -194,7 +191,7 @@
             >
             или по телефону
           </mj-text>
-          
+         
           <mj-text
             align="center"
             font-size="28px"

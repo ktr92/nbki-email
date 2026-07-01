@@ -82,6 +82,16 @@
           >
             Посмотреть отчет
           </mj-button>
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="32px 0 0 0"
+            line-height="130%"
+          >
+           Вы использовали оба бесплатных отчёта этого года. Каждый следующий отчет в этом году обойдется в 500 ₽
+          </mj-text>
         </mj-column>
       </mj-section>
 
@@ -91,7 +101,7 @@
           background-color="#fff"
           border-radius="16px"
         >
-          <mj-text
+          <mj-text 
             align="left"
             font-size="18px"
             letter-spacing="0.01em"
@@ -100,7 +110,7 @@
             font-weight="bold"
             padding="0 0 16px 0"
           >
-            Следите за своей финансовой репутацией — это проще, чем кажется
+           Держите кредитную историю под контролем
           </mj-text>
           <mj-text
             align="left"
@@ -110,8 +120,8 @@
             padding="0 0 20px 0"
             line-height="130%"
           >
-            Дважды в год отчёт можно получить бесплатно. Нужен ещё один — это
-            500₽.
+           Выберите удобный тариф на 3 или 6 кредитных отчетов.
+
           </mj-text>
           <mj-text
             align="left"
@@ -121,13 +131,12 @@
             padding="0 0 20px 0"
             line-height="130%"
           >
-            Проверяете кредитную историю регулярно? – Оформите пакетный тариф.
-            Это выгоднее разового запроса
+          Проверяйте, нет ли кредитов, которые вы не оформляли, следите за ежемесячными платежами и оценивайте свою финансовую репутацию до того, как это сделает банк
           </mj-text>
 
           <mj-table border="none" padding="0 0 16px 0">
             <tr style="transform: translateY(-1px)">
-              <td colspan="3">
+              <td colspan="3" >
                 <span
                   style="
                     border: 1px solid #4563ff;
@@ -147,7 +156,7 @@
                       </th>
                     </tr>
                     <tr>
-                      <td style="padding: 16px 0 0 0;width:95px;">
+                      <td style="padding: 0 0 0 0;width:95px;">
                         <span
                           style="
                             font-weight: 700;

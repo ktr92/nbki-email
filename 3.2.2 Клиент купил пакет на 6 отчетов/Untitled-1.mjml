@@ -16,10 +16,10 @@
         background-color: #4563ff;
       background: radial-gradient(148.39% 182.55% at 92.32% 11.24%, #4563ff 11.51%, #b0cdff 88.31%);
       }
-     
+      
        
     </mj-style>
-  </mj-head>
+  </mj-head> 
   <mj-body width="600px" background-color="#ffffff">
     <mj-wrapper background-color="#eceef6" padding="15px">
       <mj-section padding="32px 0 40px 0">
@@ -37,7 +37,7 @@
         <mj-column padding="0">
           <mj-image
             padding="0"
-            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/3b77da7013b7acd75f68dd048728c904f937c14b.png"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/6_ko_bundle.png"
             align="left"
             width="130px"
           >
@@ -60,8 +60,7 @@
             font-weight="bold"
             padding="0 0 20px 0"
           >
-            Ваш кредитный отчёт<br />
-            уже в личном кабинете
+           Пакет отчётов оформлен
           </mj-text>
           <mj-text
             align="left"
@@ -71,8 +70,17 @@
             padding="0 0 20px 0"
             line-height="130%"
           >
-            Спасибо, что воспользовались сервисом НБКИ. Отчёт будет доступен в
-            личном кабинете в течение 180 дней с момента формирования
+           Оплата прошла успешно. В рамках тарифа вы можете запросить 6 кредитных отчётов в любое удобное время в течение 360 дней с момента оплаты. 
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+Каждый отчёт появится в разделе «Полученные отчёты» в личном кабинете и будет храниться там 180 дней
           </mj-text>
           <mj-button
             align="center"
@@ -87,10 +95,10 @@
             line-height="130%"
             padding="10px 0 0 0"
           >
-            Посмотреть отчет
+            В личный кабинет
           </mj-button>
         </mj-column>
-      </mj-section>
+      </mj-section> 
 
       <mj-section padding="8px 0"   css-class="gradient-bg">
         <mj-column
@@ -130,7 +138,7 @@
           >
             Подпишитесь на рассылку — будем присылать только полезное. Отписаться можно в любой момент 
           </mj-text>
- 
+
           <mj-button
             align="center"
             href="#"
