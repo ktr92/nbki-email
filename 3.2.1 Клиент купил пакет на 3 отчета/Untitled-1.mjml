@@ -151,7 +151,7 @@
             letter-spacing="0.01em"
             height="50px"
             line-height="130%"
-            padding="10px 0 0 0"
+            padding="10px 0 0 0" 
           >
             Подписаться
           </mj-button>

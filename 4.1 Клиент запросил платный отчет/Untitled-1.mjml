@@ -11,7 +11,11 @@
       .blue {
         color: #4563ff;
       }
-    </mj-style>
+        .gradient-bg {
+        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); 
+        color: #fff;
+      }
+    </mj-style> 
   </mj-head>
   <mj-body width="600px" background-color="#ffffff">
     <mj-wrapper background-color="#eceef6" padding="15px">
@@ -105,8 +109,8 @@
                   <table>
                     <tr style="text-align: left">
                       <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
-                        <span
-                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; background: linear-gradient(180deg, #b0cdff 0%, #4563ff 35.18%); color:#fff;text-align="center"; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-weight: 700;'
+                        <span class="gradient-bg" 
+                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
                           >Персональная консультация</span
                         >
                       </th>
@@ -120,7 +124,7 @@
                             font-size: 18px;
                             letter-spacing: 0.01em;
                             line-height: 122%;
-                            font-weight: 700;
+                            font-family: Arial; font-weight: 700;
 
                             text-align: left;
                             color: #445371;
@@ -173,10 +177,10 @@
                               text-align: center;
                               display: block;
                               background: #4563ff;
-                              color: #ffffff;
+                              color: #ffffff;-webkit-text-fill-color: #fff;
                               font-family: Arial;
                               font-size: 17px;
-                              font-weight: normal;
+                              font-family: Arial; font-weight: normal;
                               line-height: 130%;
                               letter-spacing: 0.01em;
                               margin: 0;

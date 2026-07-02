@@ -6,10 +6,14 @@
     <mj-style inline="inline">
       a {
         text-decoration: none;
-        color: #445371;
+        color: #445371; 
       }
       .blue {
         color: #4563ff;
+      }
+       .gradient-bg {
+        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); 
+        color: #fff;
       }
     </mj-style>
   </mj-head>
@@ -122,7 +126,7 @@
           >
            Выберите удобный тариф на 3 или 6 кредитных отчетов.
 
-          </mj-text>
+          </mj-text> 
           <mj-text
             align="left"
             font-size="16px"
@@ -149,8 +153,7 @@
                   <table>
                     <tr style="text-align: left">
                       <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
-                        <span
-                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; background: linear-gradient(180deg, #b0cdff 0%, #4563ff 35.18%); color:#fff;text-align="center"; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-weight: 700;'
+                        <span class='gradient-bg' style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; color: #fff; text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-family: Arial; font-weight: 700;'
                           >3 отчета</span
                         >
                       </th>
@@ -159,7 +162,7 @@
                       <td style="padding: 0 0 0 0;width:95px;">
                         <span
                           style="
-                            font-weight: 700;
+                            font-family: Arial; font-family: Arial; font-weight: 700;
                             font-size: 34px;
                             line-height: 65%;
                             letter-spacing: -0.02em;
@@ -173,7 +176,7 @@
                       <td colspan="2">
                         <span
                           style="
-                            font-weight: 400;
+                            font-family: Arial; font-family: Arial; font-weight: 400;
                             font-size: 16px;
                             line-height: 113%;
                             letter-spacing: 0.01em;
@@ -185,7 +188,7 @@
                         >
                         <span
                           style="
-                            font-weight: 400;
+                            font-family: Arial; font-family: Arial; font-weight: 400;
                             font-size: 16px;
                             line-height: 113%;
                             letter-spacing: 0.01em;
@@ -205,10 +208,10 @@
                               text-align: center;
                               display: block;
                               background: #4563ff;
-                              color: #ffffff;
+                              color: #ffffff;-webkit-text-fill-color: #fff;
                               font-family: Arial;
                               font-size: 17px;
-                              font-weight: normal;
+                              font-family: Arial; font-family: Arial; font-weight: normal;
                               line-height: 130%;
                               letter-spacing: 0.01em;
                               margin: 0;
@@ -251,7 +254,7 @@
             <tr >
               <td colspan="3">
                 <span
-                  style="
+                  style="font-family: Arial;
                     border: 1px solid #4563ff;
                     border-radius: 16px 16px 16px 16px;
                     background: #f3f6fe;
@@ -262,8 +265,7 @@
                   <table>
                    <tr style="text-align: left">
                       <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
-                        <span
-                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; background: linear-gradient(180deg, #b0cdff 0%, #4563ff 35.18%); color:#fff;text-align="center"; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-weight: 700;'
+                        <span class='gradient-bg' style='font-family: Arial;border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff; text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em; font-family: Arial; font-family: Arial; font-weight: 700;'
                           >6 отчетов</span
                         >
                       </th>
@@ -274,7 +276,7 @@
                         <span
                           style="
                          
-                            font-weight: 700;
+                            font-family: Arial; font-family: Arial; font-weight: 700;
                             font-size: 34px;
                             line-height: 65%;
                             letter-spacing: -0.02em;
@@ -288,7 +290,7 @@
                       <td colspan="2">
                         <span
                           style="
-                            font-weight: 400;
+                            font-family: Arial; font-family: Arial; font-weight: 400;
                             font-size: 16px;
                             line-height: 113%;
                             letter-spacing: 0.01em;
@@ -300,7 +302,7 @@
                         >
                         <span
                           style="
-                            font-weight: 400;
+                            font-family: Arial; font-family: Arial; font-weight: 400;
                             font-size: 16px;
                             line-height: 113%;
                             letter-spacing: 0.01em;
@@ -320,10 +322,10 @@
                               text-align: center;
                               display: block;
                               background: #4563ff;
-                              color: #ffffff;
+                              color: #ffffff;-webkit-text-fill-color: #fff;
                               font-family: Arial;
                               font-size: 17px;
-                              font-weight: normal;
+                              font-family: Arial; font-family: Arial; font-weight: normal;
                               line-height: 130%;
                               letter-spacing: 0.01em;
                               margin: 0;

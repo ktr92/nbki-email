@@ -8,7 +8,7 @@
         text-decoration: none;
         color: #445371;
       }
-      .blue {
+      .blue { 
         color: #4563ff;
       }
       .gradient-bg > table {
