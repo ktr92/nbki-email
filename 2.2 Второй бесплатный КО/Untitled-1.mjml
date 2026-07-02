@@ -75,7 +75,7 @@
           </mj-text>
           <mj-button
             align="center"
-            href="#"
+            href="https://person.nbki.ru/"
             target="_blank"
             border-radius="24px"
             background-color="#4563ff"
@@ -96,7 +96,7 @@
             padding="20px 0 0 0"
             line-height="130%"
           >
-При необходимости вы можете запросить кредитный отчёт на платной основе через личный кабинет
+           Вы использовали оба бесплатных кредитных отчёта, предусмотренных законодательством на текущий год. 
           </mj-text>
            <mj-text
             align="left"
@@ -106,8 +106,9 @@
             padding="20px 0 0 0"
             line-height="130%"
           >
-           Вы использовали оба бесплатных кредитных отчёта, предусмотренных законодательством на текущий год. 
+При необходимости вы можете запросить кредитный отчёт на платной основе через личный кабинет
           </mj-text>
+          
         </mj-column>
       </mj-section>
 
@@ -152,7 +153,7 @@
  
           <mj-button
             align="center"
-            href="#"
+            href="https://person.nbki.ru/"
             target="_blank"
             border-radius="24px"
             background-color="transparent"

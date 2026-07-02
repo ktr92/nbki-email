@@ -184,7 +184,7 @@
                       <td colspan="3">
                         <span style="padding: 16px 0; display: block">
                           <a
-                            href="#"
+                            href="https://person.nbki.ru/"
                             style="
                               text-align: center;
                               display: block;
@@ -299,7 +299,7 @@
                       <td colspan="3">
                         <span style="padding: 16px 0; display: block">
                           <a
-                            href="#"
+                            href="https://person.nbki.ru/"
                             style="
                               text-align: center;
                               display: block;
@@ -404,7 +404,7 @@
                       <td colspan="3">
                         <span style="padding: 16px 0; display: block">
                           <a
-                            href="#"
+                            href="https://person.nbki.ru/"
                             style="
                               text-align: center;
                               display: block;
@@ -494,7 +494,7 @@
           >
             Если вы не хотите больше получать информацию о наших продуктах,
             акциях и специальных предложениях,
-            <a href="#" target="_blank" class="blue" text-decoration="none"
+            <a href="https://person.nbki.ru/" target="_blank" class="blue" text-decoration="none"
               >отпишитесь здесь</a
             >. Это не повлияет на получение важных информационных писем
           </mj-text>

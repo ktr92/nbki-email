@@ -84,7 +84,7 @@
           </mj-text>
           <mj-button
             align="center"
-            href="#"
+            href="https://person.nbki.ru/"
             target="_blank"
             border-radius="24px"
             background-color="#4563ff"
@@ -141,7 +141,7 @@
 
           <mj-button
             align="center"
-            href="#"
+            href="https://person.nbki.ru/"
             target="_blank"
             border-radius="24px"
             background-color="transparent"
