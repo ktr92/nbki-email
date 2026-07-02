@@ -100,7 +100,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="8px 0"   css-class="gradient-bg">
+      <mj-section padding="8px 0"  class="gradient-bg">
         <mj-column
           padding="40px 16px 20px 16px"
           border-radius="16px"

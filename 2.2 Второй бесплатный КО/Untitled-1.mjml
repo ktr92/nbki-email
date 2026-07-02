@@ -105,14 +105,14 @@
             color="#000"
             padding="20px 0 0 0"
             line-height="130%"
-          >
+          > 
 При необходимости вы можете запросить кредитный отчёт на платной основе через личный кабинет
           </mj-text>
           
         </mj-column>
       </mj-section>
 
-      <mj-section padding="8px 0"   css-class="gradient-bg">
+      <mj-section padding="8px 0"  css-class="gradient-bg">
         <mj-column
           padding="40px 16px 20px 16px"
           border-radius="16px"

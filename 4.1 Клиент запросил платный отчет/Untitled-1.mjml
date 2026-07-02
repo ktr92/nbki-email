@@ -12,7 +12,7 @@
         color: #4563ff;
       }
         .gradient-bg {
-        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); 
+        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); background-color: #4563ff;
         color: #fff;
       }
     </mj-style> 
@@ -97,7 +97,7 @@
           <mj-table border="none" padding="0 0 16px 0">
             <tr >
               <td colspan="3">
-                <span
+                <div
                   style="
                     border: 1px solid #4563ff;
                     border-radius: 16px 16px 16px 16px;
@@ -109,7 +109,8 @@
                   <table>
                     <tr style="text-align: left">
                       <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
-                        <span class="gradient-bg" 
+                       <!--[if mso | IE]></td></tr></table></td></tr><tr><td class="gradient-bg-outlook" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="gradient-bg-outlook" role="presentation" style="width:570px;" width="570" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                        <div class="gradient-bg" 
                           style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
                           >Персональная консультация</span
                         >
@@ -143,7 +144,7 @@
                             letter-spacing: 0.01em;
                             line-height: 125%;
                             text-align: left;
-                            color: #000000;
+                            color: #000000; 
                           "
                         >
                           Воспользуйтесь услугой «Ваш консультант по кредитной истории».
@@ -170,7 +171,7 @@
                     
                     <tr>
                       <td colspan="3">
-                        <span style="padding: 16px 0; display: block">
+                        <div style="padding: 16px 0; display: block">
                           <a
                             href="https://person.nbki.ru/"
                             style="

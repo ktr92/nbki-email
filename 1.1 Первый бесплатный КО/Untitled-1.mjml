@@ -12,7 +12,7 @@
         color: #4563ff;
       }
       .gradient-bg {
-        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); 
+        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); background-color:#4563FF; 
         color: #fff;
       }
     </mj-style>
@@ -132,7 +132,7 @@
           <mj-table border="none" padding="0 0 16px 0">
             <tr >
               <td colspan="3">
-                <span
+                <div
                   style="font-family: Arial;
                     border: 1px solid #4563ff;
                     border-radius: 16px 16px 16px 16px;
@@ -144,14 +144,14 @@
                   <table>
                     <tr style="font-family: Arial;text-align: left">
                       <th colspan="3" border="none" align="left" style="font-family: Arial;padding: 0 0 16px 0" >
-                        <span class="gradient-bg" style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; color:#fff;text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
+                        <div class="gradient-bg" style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap; color:#fff;text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
                           >3 отчета</span
                         >
                       </th>
                     </tr>
                     <tr>
                       <td style="font-family: Arial;padding: 16px 0 0 0;width:95px;">
-                        <span
+                        <div
                           style="font-family: Arial;
                             font-family: Arial; font-weight: 700;
                             font-size: 34px;
@@ -162,10 +162,10 @@
                             padding: 0 8px 0 0;
                           "
                           >650 ₽</span
-                        >
+                        > 
                       </td>
                       <td colspan="2">
-                        <span
+                        <div
                           style="font-family: Arial;
                             font-family: Arial; font-weight: 400;
                             font-size: 16px;
@@ -177,7 +177,7 @@
                           "
                           >три кредитных отчета</span
                         >
-                        <span
+                        <div
                           style="font-family: Arial;
                             font-family: Arial; font-weight: 400;
                             font-size: 16px;
@@ -192,7 +192,7 @@
                     </tr>
                     <tr>
                       <td colspan="3">
-                        <span style="font-family: Arial;padding: 16px 0; display: block">
+                        <div style="font-family: Arial;padding: 16px 0; display: block">
                           <a
                             href="https://person.nbki.ru/"
                             style="font-family: Arial;
@@ -244,7 +244,7 @@
            
             <tr >
               <td colspan="3">
-                <span
+                <div
                   style="font-family: Arial;
                     border: 1px solid #4563ff;
                     border-radius: 16px 16px 16px 16px;
@@ -256,7 +256,7 @@
                   <table>
                    <tr style="font-family: Arial;text-align: left">
                       <th colspan="3" border="none" align="left" style="font-family: Arial;padding: 0 0 16px 0">
-                        <span class="gradient-bg" style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
+                        <div class="gradient-bg" style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 17px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
                           >6 отчетов</span
                         >
                       </th>
@@ -264,7 +264,7 @@
                     <tr>
                     <tr>
                       <td style="font-family: Arial;padding: 16px 0 0 0; width:95px;">
-                        <span
+                        <div
                           style="font-family: Arial;
                          
                             font-family: Arial; font-weight: 700;
@@ -279,7 +279,7 @@
                         >
                       </td>
                       <td colspan="2">
-                        <span
+                        <div
                           style="font-family: Arial;
                             font-family: Arial; font-weight: 400;
                             font-size: 16px;
@@ -291,7 +291,7 @@
                           "
                           >шесть кредитных отчетов</span
                         >
-                        <span
+                        <div
                           style="font-family: Arial;
                             font-family: Arial; font-weight: 400;
                             font-size: 16px;
@@ -306,7 +306,7 @@
                     </tr>
                     <tr>
                       <td colspan="3">
-                        <span style="font-family: Arial;padding: 16px 0; display: block">
+                        <div style="font-family: Arial;padding: 16px 0; display: block">
                           <a
                             href="https://person.nbki.ru/"
                             style="font-family: Arial;
