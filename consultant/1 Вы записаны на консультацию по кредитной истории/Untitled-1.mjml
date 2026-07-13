@@ -1,0 +1,311 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a {
+        text-decoration: none;
+        color: #445371;
+      }
+      .blue {
+        color: #4563ff;
+      }
+      .gradient-bg {
+        background: linear-gradient(180deg, #B0CDFF 0%, #4563FF 35.18%); background-color:#4563FF; 
+        color: #fff;
+      }
+    </mj-style> 
+  </mj-head>
+  <mj-body width="600px" background-color="#ffffff">
+    <mj-wrapper background-color="#eceef6" padding="15px">
+      <mj-section padding="32px 0 40px 0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            width="147px"
+            align="left"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-logo.png"
+          ></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column padding="0">
+          <mj-image
+            padding="0"
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/3b77da7013b7acd75f68dd048728c904f937c14b.png"
+            align="left"
+            width="130px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="24px 0 8px 0">
+        <mj-column
+          padding="40px 16px 40px 16px"
+          background-color="#fff"
+          border-radius="16px"
+        >
+          <mj-text
+            align="left"
+            font-size="22px"
+            letter-spacing="0.01em"
+            line-height="120%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 20px 0"
+          >
+           Вы записаны на консультацию по кредитной истории
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+           Уважаемый(ая) [Имя Отчество]!
+
+          </mj-text>
+          <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 0 0"
+            line-height="130%"
+          >
+Вы успешно оплатили услугу «Ваш консультант по кредитной истории».  Кредитный отчёт в рамках услуги уже доступен в разделе «Мои консультации» в личном кабинете
+          </mj-text>
+        
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="8px 0">
+        <mj-column
+          padding="40px 16px 40px 16px"
+          background-color="#e5f5eb"
+          border-radius="16px"
+          border="4px solid rgba(1, 159, 60, 0.1);"
+        >
+             <mj-text
+            align="left"
+            font-size="22px"
+            letter-spacing="0.01em"
+            line-height="120%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 20px 0"
+          >
+           Детали вашей консультации
+          </mj-text>
+
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+          Дата и время: [ДД.ММ.ГГГГ] в [ЧЧ:ММ]
+
+          </mj-text>
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+Ваш телефон: +7 [телефон клиента]
+
+          </mj-text>
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+Формат: телефонная консультация
+
+          </mj-text>
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="10px 0 32px 0"
+            line-height="130%"
+          >
+           В назначенное время наш специалист позвонит вам на указанный номер. Убедитесь, что телефон будет доступен
+
+          </mj-text>
+
+          <mj-table border="none" padding="0 0 16px 0">
+            <tr >
+              <td colspan="3">
+                <div
+                  style="font-family: Arial, Tahoma,  sans-serif;
+                            border-radius: 12px;
+                    background: #fff; 
+                    display: block;
+                    padding: 24px 16px;
+                  "
+                >
+                  <table>
+                   
+                  
+                    <tr>
+                      <td colspan="3">
+                        <div style="font-family: Arial, Tahoma,  sans-serif;padding: 0 0; display: block; font-style: italic; font-size: 16px; color: #445371;letter-spacing: 0.01em;">
+                         Обратите внимание — <a href="https://nbki.ru/documents/lks_pravila_ispolzovaniya.pdf" style="color: #4563FF;">по правилам оказания услуги</a>, если вы не сможете принять звонок, консультация будет считаться состоявшейся, а средства за услугу не возвращаются
+                        </div>
+                        <div style="font-family: Arial, Tahoma,  sans-serif;padding: 16px 0 0 0; display: block; font-style: italic; font-size: 16px; color: #445371;letter-spacing: 0.01em;">Время консультации указано московское
+                        </div>
+                      </td>
+                    </tr>
+                    
+                  </table>
+                </div>
+              </td>
+            </tr>
+          </mj-table>
+         
+      
+        </mj-column>
+      </mj-section>
+
+        <mj-section padding="24px 0 8px 0">
+        <mj-column
+          padding="40px 16px 40px 16px"
+          background-color="#fff"
+          border-radius="16px"
+        >
+          <mj-text
+            align="left"
+            font-size="18px"
+            letter-spacing="0.01em"
+            line-height="122%"
+            color="#000"
+            font-weight="bold"
+            padding="0 0 16px 0"
+          >
+        Нужно перенести запись? 
+        </mj-text>
+          
+           <mj-text
+            align="left"
+            font-size="16px"
+            letter-spacing="0.01em"
+            color="#000"
+            padding="0 0 20px 0"
+            line-height="130%"
+          >
+         Это можно сделать один раз не позднее, чем за 2 рабочих дня до назначенной даты. Для этого войдите в личный кабинет и выберите новую удобную дату и время
+        </mj-text>
+        <mj-button
+            align="center"
+            href="https://person.nbki.ru/"
+            target="_blank"
+            border-radius="24px"
+            background-color="#fff"
+            color="#4563FF"
+            border="2px solid #4563ff;"
+            width="315px"
+            font-size="17px"
+            letter-spacing="0.01em"
+            height="50px"
+            line-height="130%"
+            padding="10px 0 0 0"
+          >
+            Перенести встречу
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0 0 0 0">
+        <mj-column padding="24px 0">
+        <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#4563ff"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+          <a href="https://nbki.ru/documents/lks_pravila_ispolzovaniya.pdf" style="color:#4563ff;">
+          Правила оказания услуги «Ваш консультант по кредитной истории»</a>
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            Это письмо было создано автоматически. <br />
+            Пожалуйста, не отвечайте на него.
+          </mj-text>
+
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+            text-decoration="none"
+          >
+            Если у вас возникли вопросы, задайте их через форму
+            <a
+              href="https://nbki.ru/contacts/#contactforms"
+              target="_blank"
+              class="blue"
+              text-decoration="none"
+              >обратной связи</a
+            >
+            или по телефону
+          </mj-text>
+         
+          <mj-text
+            align="center"
+            font-size="28px"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <mj-button href="tel:88006006404" target="_blank" class=""
+              >8 800 600 64 04</mj-button
+            >
+          </mj-text>
+          <mj-text
+            align="center"
+            font-size="15px"
+            letter-spacing="0.01em"
+            color="#445371"
+            line-height="130%"
+            padding="0 0 20px 0"
+          >
+            <a href="https://nbki.ru/" target="_blank" color="#445371"
+              >nbki.ru</a
+            >
+          </mj-text>
+          <mj-image
+            src="https://nbki.ru/local/templates/nbkiv4/public/img/email/nbki-icon-footer2.png"
+            align="center"
+            width="66px"
+          >
+          </mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

@@ -120,8 +120,8 @@
                     <tr style="text-align: left">
                       <th colspan="3" border="none" align="left" style="padding: 0 0 16px 0">
                         <div class="gradient-bg"
-                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial; font-weight: 700;'
-                          >Персональная консультация</span class=
+                          style='border-radius: 24px;padding: 5px 16px 5px 16px; white-space:nowrap;  color:#fff;text-align: center; display:inline-block; font-size: 16px;line-height: 138%;letter-spacing: 0.01em;font-family: Arial, Tahoma,  sans-serif; font-weight: 700;'
+                          >Персональная консультация</div class=
                         >
                       </th>
                     </tr> 
@@ -130,11 +130,11 @@
                       <td colspan="3" style="padding:0 0 12px 0">
                         <div
                           style="
-                            font-family: Arial;
+                            font-family: Arial, Tahoma,  sans-serif;
                             font-size: 18px;
                             letter-spacing: 0.01em;
                             line-height: 122%;
-                            font-family: Arial; font-weight: 700;
+                            font-family: Arial, Tahoma,  sans-serif; font-weight: 700;
 
                             text-align: left;
                             color: #445371;
@@ -148,7 +148,7 @@
                       <td colspan="3" style="padding: 0 0 12px 0">
                         <div
                           style="
-                            font-family: Arial;
+                            font-family: Arial, Tahoma,  sans-serif;
                             font-size: 16px;
                             letter-spacing: 0.01em;
                             line-height: 125%;
@@ -164,7 +164,7 @@
                       <td colspan="3">
                         <div
                           style="
-                            font-family: Arial;
+                            font-family: Arial, Tahoma,  sans-serif;
                             font-size: 16px;
                             letter-spacing: 0.01em;
                             line-height: 125%;
@@ -188,9 +188,9 @@
                               display: block;
                               background: #4563ff;
                               color: #ffffff;-webkit-text-fill-color: #fff;
-                              font-family: Arial;
+                              font-family: Arial, Tahoma,  sans-serif;
                               font-size: 17px;
-                              font-family: Arial; font-weight: normal;
+                              font-family: Arial, Tahoma,  sans-serif; font-weight: normal;
                               line-height: 130%;
                               letter-spacing: 0.01em;
                               margin: 0;
@@ -203,14 +203,14 @@
                             target="_blank"
                             >Записаться на консультацию</a
                           >
-                        </span>
+                        </div>
                       </td>
                     </tr>
                     <tr>
                       <td colspan="3">
                         <div
                           style="
-                            font-family: Arial;
+                            font-family: Arial, Tahoma,  sans-serif;
                             font-size: 16px;
                             letter-spacing: 0.01em;
                             line-height: 130%;
@@ -223,7 +223,7 @@
                       </td>
                     </tr>
                   </table>
-                </span>
+                </div>
               </td>
             </tr>
           </mj-table> 
